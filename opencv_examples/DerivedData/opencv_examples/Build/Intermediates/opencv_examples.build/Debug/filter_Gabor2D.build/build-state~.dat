@@ -1,0 +1,59 @@
+Tfilter_Gabor2D
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filter_Gabor2D.build/Objects-normal/x86_64/main.o /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filter_Gabor2D/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000530814C5000000000000044C
+t1393038533
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000532AC2DB00000000000001DE
+t1395311323
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000532AC2DE0000000000000ADC
+t1395311326
+s2780
+
+N/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filter_Gabor2D.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filter_Gabor2D/main.cpp
+c000000005422A1CE00000000000004F5
+t1411555790
+s1269
+
+CBuild AST from /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filter_Gabor2D/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciescb68e457d9d2b941^2bfbea57d9d2b941^---0#1#1#--18"Check dependencies36"303163F4-2C28-4E88-AB18-872CA2E2AC0C-
+
+CCompileC DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filter_Gabor2D.build/Objects-normal/x86_64/main.o /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filter_Gabor2D/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s433248599.918703
+e433248601.454219
+r0
+xCompileC
+xDerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filter_Gabor2D.build/Objects-normal/x86_64/main.o
+x/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filter_Gabor2D/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filter_Gabor2D/main.cpp:11:10: error: 'opencv2/opencv.hpp' file not found with <angled> include; use "quotes" instead
+o#include <opencv2/opencv.hpp>
+o         ^~~~~~~~~~~~~~~~~~~~
+o         "opencv2/opencv.hpp"
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filter_Gabor2D/main.cpp220"CompileC DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filter_Gabor2D.build/Objects-normal/x86_64/main.o filter_Gabor2D/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler234aeb57d9d2b941^30467459d9d2b941^-306"/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filter_Gabor2D/main.cpp:11:10: error: 'opencv2/opencv.hpp' file not found with <angled> include; use "quotes" instead#include <opencv2/opencv.hpp>         ^~~~~~~~~~~~~~~~~~~~         "opencv2/opencv.hpp"1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@79"'opencv2/opencv.hpp' file not found with <angled> include; use "quotes" instead-433248601#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@109"file:///Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filter_Gabor2D/main.cpp0000000000000000^10#9#10#9#178#0#29"Lexical or Preprocessor Issue1(3@109"file:///Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filter_Gabor2D/main.cpp0000000000000000^10#9#10#29#178#20#-0#0#1#-19%DVTDocumentLocation4@109"file:///Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filter_Gabor2D/main.cpp0000000000000000^4038"CompileC DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filter_Gabor2D.build/Objects-normal/x86_64/main.o filter_Gabor2D/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filter_Gabor2D.build/filter_Gabor2D-generated-files.hmap -I/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filter_Gabor2D.build/filter_Gabor2D-own-target-headers.hmap -I/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filter_Gabor2D.build/filter_Gabor2D-all-target-headers.hmap -iquote /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filter_Gabor2D.build/filter_Gabor2D-project-headers.hmap -iquote/usr/local/include -I/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filter_Gabor2D.build/DerivedSources/x86_64 -I/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filter_Gabor2D.build/DerivedSources -F/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Products/Debug -MMD -MT dependencies -MF /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filter_Gabor2D.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filter_Gabor2D.build/Objects-normal/x86_64/main.dia -c /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filter_Gabor2D/main.cpp -o /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filter_Gabor2D.build/Objects-normal/x86_64/main.o36"E2AB0649-EDE7-450D-BED6-FCE80BB6FB24-
+bD3D9C9E3-985B-4EF9-B145-5797FACDD3F1
+
+CLd /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Products/Debug/filter_Gabor2D normal x86_64
+r0
+

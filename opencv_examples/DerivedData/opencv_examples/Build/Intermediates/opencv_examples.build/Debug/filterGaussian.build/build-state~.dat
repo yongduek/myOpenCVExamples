@@ -1,0 +1,175 @@
+TfilterGaussian
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/Objects-normal/x86_64/main.o /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filterGaussian/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Products/Debug/filterGaussian normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000053488C2800000000000000AA
+t1397263400
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000530814C5000000000000044C
+t1393038533
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000532AC2DB00000000000001DE
+t1395311323
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000532AC2DE0000000000000ADC
+t1395311326
+s2780
+
+N/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/Objects-normal/x86_64/filterGaussian.LinkFileList
+c00000000542299D100000000000000CD
+t1411553745
+s205
+
+N/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/Objects-normal/x86_64/main.o
+t1411553747
+s136036
+
+N/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Products/Debug/filterGaussian
+t2
+s0
+
+N/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filterGaussian/main.cpp
+c00000000542299CF00000000000002AF
+t1411553743
+s687
+
+CBuild AST from /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filterGaussian/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb9a83a51d1d2b941^99d44051d1d2b941^---0#1#1#--18"Check dependencies36"6106E5FA-4778-436F-A9BC-D3F7E11093F4-
+
+CCompileC DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/Objects-normal/x86_64/main.o /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filterGaussian/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s433246545.253488
+e433246547.259194
+r1
+xCompileC
+xDerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/Objects-normal/x86_64/main.o
+x/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filterGaussian/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filterGaussian/main.cpp
+d/usr/local/include/opencv2/opencv.hpp
+d/usr/local/include/opencv2/core/core_c.h
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/flann/miniflann.hpp
+d/usr/local/include/opencv2/flann/defines.h
+d/usr/local/include/opencv2/flann/config.h
+d/usr/local/include/opencv2/imgproc/imgproc_c.h
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/photo/photo.hpp
+d/usr/local/include/opencv2/photo/photo_c.h
+d/usr/local/include/opencv2/video/video.hpp
+d/usr/local/include/opencv2/video/tracking.hpp
+d/usr/local/include/opencv2/video/background_segm.hpp
+d/usr/local/include/opencv2/features2d/features2d.hpp
+d/usr/local/include/opencv2/objdetect/objdetect.hpp
+d/usr/local/include/opencv2/calib3d/calib3d.hpp
+d/usr/local/include/opencv2/ml/ml.hpp
+d/usr/local/include/opencv2/highgui/highgui_c.h
+d/usr/local/include/opencv2/highgui/highgui.hpp
+d/usr/local/include/opencv2/contrib/contrib.hpp
+d/usr/local/include/opencv2/contrib/retina.hpp
+d/usr/local/include/opencv2/contrib/openfabmap.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filterGaussian/main.cpp220"CompileC DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/Objects-normal/x86_64/main.o filterGaussian/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler48fe4051d1d2b941^ab5a4253d1d2b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filterGaussian/main.cpp0000000000000000^3357"CompileC DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/Objects-normal/x86_64/main.o filterGaussian/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -I/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/filterGaussian.hmap -I/usr/local/include -I/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/DerivedSources/x86_64 -I/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/DerivedSources -F/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Products/Debug -MMD -MT dependencies -MF /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/Objects-normal/x86_64/main.dia -c /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/filterGaussian/main.cpp -o /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/Objects-normal/x86_64/main.o36"E465FE76-CCAC-4780-91C0-E1E2B94B3C85-
+b0384FBFB-D90D-4BAC-A067-CE0528446AC4
+
+CLd /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Products/Debug/filterGaussian normal x86_64
+s433246547.259965
+e433246547.289524
+r0
+xLd
+x/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Products/Debug/filterGaussian
+xnormal
+xx86_64
+d/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/Objects-normal/x86_64/filterGaussian.LinkFileList
+d/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+oUndefined symbols for architecture x86_64:
+o  "cv::_InputArray::_InputArray(cv::Mat const&)", referenced from:
+o      _main in main.o
+o  "cv::_OutputArray::_OutputArray(cv::Mat&)", referenced from:
+o      _main in main.o
+o  "cv::getGaussianKernel(int, double, int)", referenced from:
+o      _main in main.o
+o  "cv::Mat::deallocate()", referenced from:
+o      cv::Mat::release() in main.o
+o  "cv::Mat::copySize(cv::Mat const&)", referenced from:
+o      cv::Mat::operator=(cv::Mat const&) in main.o
+o  "cv::imread(std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, int)", referenced from:
+o      _main in main.o
+o  "cv::imshow(std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, cv::_InputArray const&)", referenced from:
+o      _main in main.o
+o  "cv::waitKey(int)", referenced from:
+o      _main in main.o
+o  "cv::cvtColor(cv::_InputArray const&, cv::_OutputArray const&, int, int)", referenced from:
+o      _main in main.o
+o  "cv::fastFree(void*)", referenced from:
+o      cv::Mat::~Mat() in main.o
+o  "cv::Formatter::get(char const*)", referenced from:
+o      cv::operator<<(std::__1::basic_ostream<char, std::__1::char_traits<char> >&, cv::Mat const&) in main.o
+o  "cv::Mat::reshape(int, int, int const*) const", referenced from:
+o      cv::Mat_<unsigned char>::operator=(cv::Mat const&) in main.o
+o  "cv::Mat::convertTo(cv::_OutputArray const&, int, double, double) const", referenced from:
+o      cv::Mat_<unsigned char>::operator=(cv::Mat const&) in main.o
+o  "vtable for cv::_InputArray", referenced from:
+o      cv::_InputArray::_InputArray<unsigned char>(cv::Mat_<unsigned char> const&) in main.o
+o  NOTE: a missing vtable usually means the first non-inline virtual member function has no definition.
+o  "vtable for cv::_OutputArray", referenced from:
+o      cv::_OutputArray::_OutputArray<unsigned char>(cv::Mat_<unsigned char>&) in main.o
+o  NOTE: a missing vtable usually means the first non-inline virtual member function has no definition.
+old: symbol(s) not found for architecture x86_64
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Link /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Products/Debug/filterGaussian80"Ld DerivedData/opencv_examples/Build/Products/Debug/filterGaussian normal x86_6412a04253d1d2b941^c6354a53d1d2b941^-2135"Undefined symbols for architecture x86_64:  "cv::_InputArray::_InputArray(cv::Mat const&)", referenced from:      _main in main.o  "cv::_OutputArray::_OutputArray(cv::Mat&)", referenced from:      _main in main.o  "cv::getGaussianKernel(int, double, int)", referenced from:      _main in main.o  "cv::Mat::deallocate()", referenced from:      cv::Mat::release() in main.o  "cv::Mat::copySize(cv::Mat const&)", referenced from:      cv::Mat::operator=(cv::Mat const&) in main.o  "cv::imread(std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, int)", referenced from:      _main in main.o  "cv::imshow(std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, cv::_InputArray const&)", referenced from:      _main in main.o  "cv::waitKey(int)", referenced from:      _main in main.o  "cv::cvtColor(cv::_InputArray const&, cv::_OutputArray const&, int, int)", referenced from:      _main in main.o  "cv::fastFree(void*)", referenced from:      cv::Mat::~Mat() in main.o  "cv::Formatter::get(char const*)", referenced from:      cv::operator<<(std::__1::basic_ostream<char, std::__1::char_traits<char> >&, cv::Mat const&) in main.o  "cv::Mat::reshape(int, int, int const*) const", referenced from:      cv::Mat_<unsigned char>::operator=(cv::Mat const&) in main.o  "cv::Mat::convertTo(cv::_OutputArray const&, int, double, double) const", referenced from:      cv::Mat_<unsigned char>::operator=(cv::Mat const&) in main.o  "vtable for cv::_InputArray", referenced from:      cv::_InputArray::_InputArray<unsigned char>(cv::Mat_<unsigned char> const&) in main.o  NOTE: a missing vtable usually means the first non-inline virtual member function has no definition.  "vtable for cv::_OutputArray", referenced from:      cv::_OutputArray::_OutputArray<unsigned char>(cv::Mat_<unsigned char>&) in main.o  NOTE: a missing vtable usually means the first non-inline virtual member function has no definition.ld: symbol(s) not found for architecture x86_64clang: error: linker command failed with exit code 1 (use -v to see invocation)34(21%IDEActivityLogMessage2@64""cv::_InputArray::_InputArray(cv::Mat const&)", referenced from:-433246547#43#67#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-433246547#110#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@60""cv::_OutputArray::_OutputArray(cv::Mat&)", referenced from:-433246547#132#63#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-433246547#195#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@59""cv::getGaussianKernel(int, double, int)", referenced from:-433246547#217#62#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-433246547#279#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@41""cv::Mat::deallocate()", referenced from:-433246547#301#44#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@28"Cv::Mat::release() in main.o-433246547#345#35#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@53""cv::Mat::copySize(cv::Mat const&)", referenced from:-433246547#380#56#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@44"Cv::Mat::operator=(cv::Mat const&) in main.o-433246547#436#51#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@129""cv::imread(std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, int)", referenced from:-433246547#487#132#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-433246547#619#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@148""cv::imshow(std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&, cv::_InputArray const&)", referenced from:-433246547#641#151#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-433246547#792#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@36""cv::waitKey(int)", referenced from:-433246547#814#39#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-433246547#853#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@91""cv::cvtColor(cv::_InputArray const&, cv::_OutputArray const&, int, int)", referenced from:-433246547#875#94#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-433246547#969#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@39""cv::fastFree(void*)", referenced from:-433246547#991#42#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@25"Cv::Mat::~Mat() in main.o-433246547#1033#32#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@51""cv::Formatter::get(char const*)", referenced from:-433246547#1065#54#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@102"Cv::operator<<(std::__1::basic_ostream<char, std::__1::char_traits<char> >&, cv::Mat const&) in main.o-433246547#1119#109#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@64""cv::Mat::reshape(int, int, int const*) const", referenced from:-433246547#1228#67#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@60"Cv::Mat_<unsigned char>::operator=(cv::Mat const&) in main.o-433246547#1295#67#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@90""cv::Mat::convertTo(cv::_OutputArray const&, int, double, double) const", referenced from:-433246547#1362#93#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@60"Cv::Mat_<unsigned char>::operator=(cv::Mat const&) in main.o-433246547#1455#67#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@46""vtable for cv::_InputArray", referenced from:-433246547#1522#49#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@85"Cv::_InputArray::_InputArray<unsigned char>(cv::Mat_<unsigned char> const&) in main.o-433246547#1571#92#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@94"A missing vtable usually means the first non-inline virtual member function has no definition.-433246547#1663#103#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@47""vtable for cv::_OutputArray", referenced from:-433246547#1766#50#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@81"Cv::_OutputArray::_OutputArray<unsigned char>(cv::Mat_<unsigned char>&) in main.o-433246547#1816#88#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@94"A missing vtable usually means the first non-inline virtual member function has no definition.-433246547#1904#103#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@43"Symbol(s) not found for architecture x86_64-433246547#2007#48#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-433246547#2055#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--0#0#1#--1380"Ld DerivedData/opencv_examples/Build/Products/Debug/filterGaussian normal x86_64    cd /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Products/Debug -F/Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Products/Debug -filelist /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/Objects-normal/x86_64/filterGaussian.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Intermediates/opencv_examples.build/Debug/filterGaussian.build/Objects-normal/x86_64/filterGaussian_dependency_info.dat -o /Users/yndk/Documents/DaumCloud/School/OpenCV/myOpenCVExamples/opencv_examples/DerivedData/opencv_examples/Build/Products/Debug/filterGaussian36"5338F3FF-7A90-4414-8316-067852BDE26F-
+b0384FBFB-D90D-4BAC-A067-CE0528446AC4
+
