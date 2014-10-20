@@ -97,6 +97,23 @@
 		B0BA41DE19D2D96000E73CA8 /* libopencv_superres.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40F019D2C82500E73CA8 /* libopencv_superres.2.4.9.dylib */; };
 		B0BA41DF19D2D96000E73CA8 /* libopencv_video.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40F519D2C82500E73CA8 /* libopencv_video.2.4.9.dylib */; };
 		B0BA41E019D2D96000E73CA8 /* libopencv_videostab.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40F919D2C82500E73CA8 /* libopencv_videostab.2.4.9.dylib */; };
+		B0EE8E3519EF8E3A0044FD11 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B0EE8E3419EF8E3A0044FD11 /* main.cpp */; };
+		B0EE8E3919EF8E620044FD11 /* libopencv_calib3d.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40B519D2C82400E73CA8 /* libopencv_calib3d.2.4.9.dylib */; };
+		B0EE8E3A19EF8E620044FD11 /* libopencv_contrib.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40B919D2C82400E73CA8 /* libopencv_contrib.2.4.9.dylib */; };
+		B0EE8E3B19EF8E620044FD11 /* libopencv_core.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40BD19D2C82400E73CA8 /* libopencv_core.2.4.9.dylib */; };
+		B0EE8E3C19EF8E620044FD11 /* libopencv_features2d.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40C119D2C82400E73CA8 /* libopencv_features2d.2.4.9.dylib */; };
+		B0EE8E3D19EF8E620044FD11 /* libopencv_flann.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40C519D2C82400E73CA8 /* libopencv_flann.2.4.9.dylib */; };
+		B0EE8E3E19EF8E620044FD11 /* libopencv_highgui.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40CD19D2C82400E73CA8 /* libopencv_highgui.2.4.9.dylib */; };
+		B0EE8E3F19EF8E620044FD11 /* libopencv_imgproc.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40D119D2C82400E73CA8 /* libopencv_imgproc.2.4.9.dylib */; };
+		B0EE8E4019EF8E620044FD11 /* libopencv_legacy.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40D519D2C82400E73CA8 /* libopencv_legacy.2.4.9.dylib */; };
+		B0EE8E4119EF8E620044FD11 /* libopencv_ml.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40D919D2C82400E73CA8 /* libopencv_ml.2.4.9.dylib */; };
+		B0EE8E4219EF8E620044FD11 /* libopencv_nonfree.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40DD19D2C82400E73CA8 /* libopencv_nonfree.2.4.9.dylib */; };
+		B0EE8E4319EF8E620044FD11 /* libopencv_objdetect.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40E119D2C82400E73CA8 /* libopencv_objdetect.2.4.9.dylib */; };
+		B0EE8E4419EF8E620044FD11 /* libopencv_photo.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40E819D2C82400E73CA8 /* libopencv_photo.2.4.9.dylib */; };
+		B0EE8E4519EF8E620044FD11 /* libopencv_stitching.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40EC19D2C82500E73CA8 /* libopencv_stitching.2.4.9.dylib */; };
+		B0EE8E4619EF8E620044FD11 /* libopencv_superres.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40F019D2C82500E73CA8 /* libopencv_superres.2.4.9.dylib */; };
+		B0EE8E4719EF8E620044FD11 /* libopencv_video.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40F519D2C82500E73CA8 /* libopencv_video.2.4.9.dylib */; };
+		B0EE8E4819EF8E620044FD11 /* libopencv_videostab.2.4.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BA40F919D2C82500E73CA8 /* libopencv_videostab.2.4.9.dylib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -150,6 +167,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		B0EE8E3019EF8E3A0044FD11 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
@@ -184,6 +210,8 @@
 		B0BA41C819D2D80C00E73CA8 /* filter_Gabor2D */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = filter_Gabor2D; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0BA41CA19D2D80C00E73CA8 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		B0BA41CC19D2D80C00E73CA8 /* filter_Gabor2D.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = filter_Gabor2D.1; sourceTree = "<group>"; };
+		B0EE8E3219EF8E3A0044FD11 /* cameraCalibration */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = cameraCalibration; sourceTree = BUILT_PRODUCTS_DIR; };
+		B0EE8E3419EF8E3A0044FD11 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -302,6 +330,29 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		B0EE8E2F19EF8E3A0044FD11 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B0EE8E3B19EF8E620044FD11 /* libopencv_core.2.4.9.dylib in Frameworks */,
+				B0EE8E4619EF8E620044FD11 /* libopencv_superres.2.4.9.dylib in Frameworks */,
+				B0EE8E4419EF8E620044FD11 /* libopencv_photo.2.4.9.dylib in Frameworks */,
+				B0EE8E3F19EF8E620044FD11 /* libopencv_imgproc.2.4.9.dylib in Frameworks */,
+				B0EE8E4119EF8E620044FD11 /* libopencv_ml.2.4.9.dylib in Frameworks */,
+				B0EE8E4719EF8E620044FD11 /* libopencv_video.2.4.9.dylib in Frameworks */,
+				B0EE8E4319EF8E620044FD11 /* libopencv_objdetect.2.4.9.dylib in Frameworks */,
+				B0EE8E4519EF8E620044FD11 /* libopencv_stitching.2.4.9.dylib in Frameworks */,
+				B0EE8E3A19EF8E620044FD11 /* libopencv_contrib.2.4.9.dylib in Frameworks */,
+				B0EE8E4219EF8E620044FD11 /* libopencv_nonfree.2.4.9.dylib in Frameworks */,
+				B0EE8E3C19EF8E620044FD11 /* libopencv_features2d.2.4.9.dylib in Frameworks */,
+				B0EE8E3919EF8E620044FD11 /* libopencv_calib3d.2.4.9.dylib in Frameworks */,
+				B0EE8E4819EF8E620044FD11 /* libopencv_videostab.2.4.9.dylib in Frameworks */,
+				B0EE8E4019EF8E620044FD11 /* libopencv_legacy.2.4.9.dylib in Frameworks */,
+				B0EE8E3E19EF8E620044FD11 /* libopencv_highgui.2.4.9.dylib in Frameworks */,
+				B0EE8E3D19EF8E620044FD11 /* libopencv_flann.2.4.9.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -313,6 +364,7 @@
 				B0BA418F19D2CFCE00E73CA8 /* filterGaussian */,
 				B0BA41AC19D2D42600E73CA8 /* filter2D_userKernel */,
 				B0BA41C919D2D80C00E73CA8 /* filter_Gabor2D */,
+				B0EE8E3319EF8E3A0044FD11 /* cameraCalibration */,
 				B0BA409919D2BCFC00E73CA8 /* Products */,
 				B0BA40B119D2C7E400E73CA8 /* opencv */,
 			);
@@ -326,6 +378,7 @@
 				B0BA418E19D2CFCE00E73CA8 /* filterGaussian */,
 				B0BA41AB19D2D42600E73CA8 /* filter2D_userKernel */,
 				B0BA41C819D2D80C00E73CA8 /* filter_Gabor2D */,
+				B0EE8E3219EF8E3A0044FD11 /* cameraCalibration */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -397,6 +450,14 @@
 				B0BA41CC19D2D80C00E73CA8 /* filter_Gabor2D.1 */,
 			);
 			path = filter_Gabor2D;
+			sourceTree = "<group>";
+		};
+		B0EE8E3319EF8E3A0044FD11 /* cameraCalibration */ = {
+			isa = PBXGroup;
+			children = (
+				B0EE8E3419EF8E3A0044FD11 /* main.cpp */,
+			);
+			path = cameraCalibration;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -487,6 +548,23 @@
 			productReference = B0BA41C819D2D80C00E73CA8 /* filter_Gabor2D */;
 			productType = "com.apple.product-type.tool";
 		};
+		B0EE8E3119EF8E3A0044FD11 /* cameraCalibration */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B0EE8E3619EF8E3A0044FD11 /* Build configuration list for PBXNativeTarget "cameraCalibration" */;
+			buildPhases = (
+				B0EE8E2E19EF8E3A0044FD11 /* Sources */,
+				B0EE8E2F19EF8E3A0044FD11 /* Frameworks */,
+				B0EE8E3019EF8E3A0044FD11 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = cameraCalibration;
+			productName = cameraCalibration;
+			productReference = B0EE8E3219EF8E3A0044FD11 /* cameraCalibration */;
+			productType = "com.apple.product-type.tool";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -495,6 +573,11 @@
 			attributes = {
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Yongduek Seo";
+				TargetAttributes = {
+					B0EE8E3119EF8E3A0044FD11 = {
+						CreatedOnToolsVersion = 6.0.1;
+					};
+				};
 			};
 			buildConfigurationList = B0BA409319D2BCFC00E73CA8 /* Build configuration list for PBXProject "opencv_examples" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -513,6 +596,7 @@
 				B0BA418D19D2CFCE00E73CA8 /* filterGaussian */,
 				B0BA41AA19D2D42600E73CA8 /* filter2D_userKernel */,
 				B0BA41C719D2D80C00E73CA8 /* filter_Gabor2D */,
+				B0EE8E3119EF8E3A0044FD11 /* cameraCalibration */,
 			);
 		};
 /* End PBXProject section */
@@ -555,6 +639,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				B0BA41CB19D2D80C00E73CA8 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B0EE8E2E19EF8E3A0044FD11 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B0EE8E3519EF8E3A0044FD11 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -639,7 +731,7 @@
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					/usr/local/libopencv/lib,
+					/usr/local/lib,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				USER_HEADER_SEARCH_PATHS = /usr/local/include;
@@ -652,7 +744,7 @@
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					/usr/local/libopencv/lib,
+					/usr/local/lib,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				USER_HEADER_SEARCH_PATHS = /usr/local/include;
@@ -749,9 +841,14 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					/usr/local/include,
+				);
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					/usr/local/libopencv/lib,
+					/usr/local/lib,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -761,10 +858,49 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					/usr/local/include,
+				);
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					/usr/local/libopencv/lib,
+					/usr/local/lib,
 				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		B0EE8E3719EF8E3A0044FD11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/usr/local/lib,
+				);
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		B0EE8E3819EF8E3A0044FD11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/usr/local/lib,
+				);
+				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -788,6 +924,7 @@
 				B0BA40A319D2BCFC00E73CA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B0BA40AE19D2C71500E73CA8 /* Build configuration list for PBXNativeTarget "bit_planes" */ = {
 			isa = XCConfigurationList;
@@ -796,6 +933,7 @@
 				B0BA40B019D2C71500E73CA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B0BA419419D2CFCE00E73CA8 /* Build configuration list for PBXNativeTarget "filterGaussian" */ = {
 			isa = XCConfigurationList;
@@ -804,6 +942,7 @@
 				B0BA419619D2CFCE00E73CA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B0BA41B119D2D42600E73CA8 /* Build configuration list for PBXNativeTarget "filter2D_userKernel" */ = {
 			isa = XCConfigurationList;
@@ -812,12 +951,22 @@
 				B0BA41B319D2D42600E73CA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B0BA41CE19D2D80C00E73CA8 /* Build configuration list for PBXNativeTarget "filter_Gabor2D" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B0BA41CF19D2D80C00E73CA8 /* Debug */,
 				B0BA41D019D2D80C00E73CA8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B0EE8E3619EF8E3A0044FD11 /* Build configuration list for PBXNativeTarget "cameraCalibration" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B0EE8E3719EF8E3A0044FD11 /* Debug */,
+				B0EE8E3819EF8E3A0044FD11 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};

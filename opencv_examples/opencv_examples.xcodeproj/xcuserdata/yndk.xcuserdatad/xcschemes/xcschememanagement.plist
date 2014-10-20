@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
+		<key>cameraCalibration.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 		<key>filter2D_userKernel.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -53,6 +58,11 @@
 			<true/>
 		</dict>
 		<key>B0BA41C719D2D80C00E73CA8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B0EE8E3119EF8E3A0044FD11</key>
 		<dict>
 			<key>primary</key>
 			<true/>

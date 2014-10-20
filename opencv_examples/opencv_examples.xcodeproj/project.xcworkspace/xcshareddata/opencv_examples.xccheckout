@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EABB5FD9-7B1C-41EC-A9B9-C640D24658E8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>opencv_examples</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C4E520DA8D6E2877F3EE85D385B67A6CCEA5B751</key>
+		<string>https://github.com/yongduek/myOpenCVExamples.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>opencv_examples/opencv_examples.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C4E520DA8D6E2877F3EE85D385B67A6CCEA5B751</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yongduek/myOpenCVExamples.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C4E520DA8D6E2877F3EE85D385B67A6CCEA5B751</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C4E520DA8D6E2877F3EE85D385B67A6CCEA5B751</string>
+			<key>IDESourceControlWCCName</key>
+			<string>myOpenCVExamples</string>
+		</dict>
+	</array>
+</dict>
+</plist>
