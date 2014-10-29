@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>BRISKinOpenCV.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>bgSub_MOGDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
 		<key>bit_planes.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -29,14 +39,49 @@
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
+		<key>keypointHomography.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
 		<key>opencv_examples.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>subtraction.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>videoHomographyTracking.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>video_homography.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>B021391A19F7868200EBEF59</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B0B58F1519F499E2002429E7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B0B855D819F8F201001FDF68</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>B0BA409719D2BCFC00E73CA8</key>
 		<dict>
 			<key>primary</key>
@@ -58,6 +103,21 @@
 			<true/>
 		</dict>
 		<key>B0BA41C719D2D80C00E73CA8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B0CF7AB319F62A8E006FCF07</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B0E73A2C19FF71FA0099BC5D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B0E73A3719FF7D050099BC5D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
